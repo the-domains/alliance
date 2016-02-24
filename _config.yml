@@ -1,4 +1,4 @@
-name: alliance
+name: Alliance Media
 favicon: null
 layout_spectrum: 0.49126
 typography_spectrum: 0.8771859931293875
@@ -22,7 +22,7 @@ color:
     - '#273a49'
     - '#fd921c'
     - '#fefef5'
-  brandStrength: 0.9567027185112238
+  brandStrength: 0
   lightness: 0.9424885590560734
   saturation: 0.1008157564792782
   rhythmicContrast: 0.45198113983497024
