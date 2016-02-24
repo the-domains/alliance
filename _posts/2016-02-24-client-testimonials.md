@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Marketing and Advertising in Northland is what Alliance Media is all about.We have been serving Whangarei and Northland businesses since 2007 with specifically tailored total marketing and advertising solutions.Keeping our clients happy and growing their businesses is what we pride ourselves on. Here’s what a few of them have to say about us…
-datePublished: '2016-02-24T06:30:43.294Z'
-dateModified: '2016-02-24T06:30:27.113Z'
+datePublished: '2016-02-24T06:37:54.414Z'
+dateModified: '2016-02-24T06:31:21.328Z'
 title: Client Testimonials
 author: []
+sourcePath: _posts/2016-02-24-client-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-24-client-testimonials.md
-published: true
 url: client-testimonials/index.html
 _type: Article
 
