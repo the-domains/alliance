@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[alliance]]></title>
         <description><![CDATA[alliance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alliance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 05:28:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 05:35:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alliance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Email us at andy@alliancemedia.co.nz or give us a call at one of the numbers below:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/871c74c3-9ab4-4a6b-aaa7-1c6f36e6ed50.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alliance/contact-us/index.html</link>
+            <guid isPermaLink="false">d504ff39-7357-4f13-b8f6-5b559353e4df</guid>
+            <pubDate>Wed, 24 Feb 2016 05:35:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb2b2e84-534a-4ae6-9fc6-d0913cf51b42.jpg">]]></description>
-            <link>undefined78b33bb4-ad60-4fdd-a4b9-5af130124638/index.html</link>
+            <link>https://thegrid.ai/alliance/78b33bb4-ad60-4fdd-a4b9-5af130124638/index.html</link>
             <guid isPermaLink="false">78b33bb4-ad60-4fdd-a4b9-5af130124638</guid>
             <pubDate>Wed, 24 Feb 2016 05:26:51 GMT</pubDate>
         </item>
