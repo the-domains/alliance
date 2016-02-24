@@ -2,6 +2,7 @@ name: alliance
 favicon: null
 layout_spectrum: 0.49126
 typography_spectrum: 0.8771859931293875
+title: Alliance Media
 cta:
   domain: null
   bucket: null
