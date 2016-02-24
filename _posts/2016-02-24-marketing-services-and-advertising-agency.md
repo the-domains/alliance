@@ -6,12 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Alliance Media offers a full range of marketing services to businesses in Whangarei and Northland.  Our experienced team will create a total marketing solution that will help your business move to the next level.
-datePublished: '2016-02-24T06:38:57.730Z'
-dateModified: '2016-02-24T06:37:43.396Z'
-title: |+
-  Marketing Services & Advertising Agency
-
-
+datePublished: '2016-02-24T06:59:36.796Z'
+dateModified: '2016-02-24T06:59:35.945Z'
+title: Marketing Services
 author: []
 sourcePath: _posts/2016-02-24-marketing-services-and-advertising-agency.md
 published: true
@@ -25,7 +22,7 @@ url: marketing-services-and-advertising-agency/index.html
 _type: Article
 
 ---
-# Marketing Services & Advertising Agency
+# Marketing Services
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbe9daa-af32-4a11-b672-6df79cfb030e.jpg)
 
 Alliance Media offers a full range of marketing services
