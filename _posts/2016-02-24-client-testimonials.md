@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Marketing and Advertising in Northland is what Alliance Media is all about.We have been serving Whangarei and Northland businesses since 2007 with specifically tailored total marketing and advertising solutions.Keeping our clients happy and growing their businesses is what we pride ourselves on. Here’s what a few of them have to say about us…
-datePublished: '2016-02-24T06:40:13.065Z'
-dateModified: '2016-02-24T06:39:57.062Z'
+datePublished: '2016-02-24T06:55:38.840Z'
+dateModified: '2016-02-24T06:55:25.704Z'
 title: Client Testimonials
 author: []
 sourcePath: _posts/2016-02-24-client-testimonials.md
@@ -79,8 +79,7 @@ Depot
 > have no hesitation to promote Alliance Media to anyone considering their own
 > advertising schedule.
 
-## G.R Wilkinson -- Manager/Owner Renovation Warehouse (formerly
-Demolition Supermarket)
+## G.R Wilkinson -- Manager/Owner Renovation Warehouse
 
 > We are a new and used building supply firm based in
 > Whangarei. We have been using the services of Alliance Media for approximately
@@ -158,8 +157,7 @@ Executive Officer of Northland Business Development Trust (retired)
 > effective. We are enjoying our ongoing relationship with Alliance Media and
 > their competent team and will continue to work with them in the future.
 
-## Grant McLeod-- CEO of
-Northland Hockey Association
+## Grant McLeod-- CEO of Northland Hockey Association
 
 > Alliance Media (Andy Mayhew) and NHA have worked closely
 > together over the past 5 years to build up our sponsorship portfolio. We have
@@ -170,5 +168,3 @@ Northland Hockey Association
 > created new ones that have enhanced the sponsorship relationships. The ability
 > of Alliance Media to deliver a "total package" has been of great value. We look
 > to continuing our relationship with Alliance Media into the future
-
-
