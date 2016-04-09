@@ -5,25 +5,27 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-04-09T21:10:27.483Z'
-dateModified: '2016-04-09T21:10:11.542Z'
+description: Here’s what a few of them have to say about us…
+datePublished: '2016-04-09T21:11:15.493Z'
+dateModified: '2016-04-09T21:10:52.600Z'
 author: []
 title: 'Marketing and Advertising, Northland'
+sourcePath: _posts/2016-04-09-marketing-and-advertising-northland.md
+published: true
 authors: []
 publisher:
   name: alliancemedia.co.nz
   domain: alliancemedia.co.nz
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-marketing-and-advertising-northland.md
-published: true
 url: marketing-and-advertising-northland/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-##### 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08c87adb-9b65-499d-8373-fd5b72e6a072.jpg)
+
+# 
 
 # Marketing and Advertising, Northland
 
