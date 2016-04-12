@@ -16,8 +16,8 @@ description: >-
   businesses is what we pride
 
   ourselves on.
-datePublished: '2016-04-09T23:03:30.789Z'
-dateModified: '2016-04-09T23:03:26.131Z'
+datePublished: '2016-04-12T02:44:30.902Z'
+dateModified: '2016-04-12T02:42:22.478Z'
 author: []
 title: Client Testimonials
 sourcePath: _posts/2016-04-09-marketing-and-advertising-northland.md
@@ -47,7 +47,7 @@ ourselves on.
 
 Here's what a few of them have to say about us...
 
-## Linda Wallis -- Director of Assist You
+**Linda Wallis -- Director of Assist You**
 
 I have been dealing with Alliance Media for some time now
 and continue to enjoy the experience. Andy is full of ideas, excitement about
@@ -56,7 +56,7 @@ business has climbed to unexpected new heights.I freely recommend Alliance Media
 directions in marketing -- but don't sit back and relax because you're going on
 a fast track to success.
 
-## Durwin Eagle -- Previous owner of Cheapskates and Inferno
+**Durwin Eagle -- Previous owner of Cheapskates and Inferno**
 
 I own and manage a skate shop in the Strand Arcade,
 Whangarei and I have been involved in retail for 5 years now. Over the past 3
@@ -67,8 +67,8 @@ me confident in making decisions based on his experiences from various retail
 roles within Liquor sales, Levenes and The Warehouse. I have also accessed his
 network of associates to get other work done within the business.
 
-## Grant Stone-- Managing Director of Baigents Office Products
-Depot
+**Grant Stone-- Managing Director of Baigents Office Products
+Depot**
 
 Alliance Media -- Andy Mayhew has been working with Baigents
 Office Products in Northland for 4 years now --bringing changes and a new direction for our marketing and advertising.
@@ -79,8 +79,8 @@ into action. Nothing is too difficult for Andy and his team to handle when it
 comes to marketing and above all else the services he provides are efficient
 and very cost effective.
 
-## Steve Clarke -- Co-Director of Autocare and Owens Brakes
-& Suspension
+**Steve Clarke -- Co-Director of Autocare and Owens Brakes
+& Suspension**
 
 Andy Mayhew has been dealing with Autocare both as a
 Customer and an Advertising representative for in excess of ten years now. In
@@ -93,8 +93,8 @@ options available, they are always prompt in answering any queries. We would
 have no hesitation to promote Alliance Media to anyone considering their own
 advertising schedule.
 
-## G.R Wilkinson -- Manager/Owner Renovation Warehouse (formerly
-Demolition Supermarket)
+**G.R Wilkinson -- Manager/Owner Renovation Warehouse (formerly
+Demolition Supermarket)**
 
 We are a new and used building supply firm based in
 Whangarei. We have been using the services of Alliance Media for approximately
@@ -109,7 +109,7 @@ certainly freed up time that otherwise I would have had to have had some input
 in myself. I believe Alliance Media have had a direct input into the efficiency
 and profitability of our business.
 
-## Graeme Johnson -- Owner Graeme Johnson Jewels and Time
+**Graeme Johnson -- Owner Graeme Johnson Jewels and Time**
 
 I have known Andy Mayhew in a business capacity
 approximately 10 years. Over this period Andy has been our Advertising
@@ -122,7 +122,7 @@ personal observation he appeared to handle pressure well, sometimes under
 trying circumstances and time limitations. There is no hesitation to recommend
 Andy to any future employer.
 
-## Bill Huddleston -- Huddleston Hypnotherapy
+Bill Huddleston -- Huddleston Hypnotherapy
 
 My business has grown significantly to the extent that I am
 only one of three full-time practicing hypnotherapists in provincial New
