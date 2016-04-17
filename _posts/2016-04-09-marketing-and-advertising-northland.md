@@ -16,8 +16,8 @@ description: >-
   businesses is what we pride
 
   ourselves on.
-datePublished: '2016-04-13T08:31:21.873Z'
-dateModified: '2016-04-13T08:31:02.562Z'
+datePublished: '2016-04-17T21:50:01.392Z'
+dateModified: '2016-04-13T09:26:22.103Z'
 author: []
 title: Client Testimonials
 sourcePath: _posts/2016-04-09-marketing-and-advertising-northland.md
