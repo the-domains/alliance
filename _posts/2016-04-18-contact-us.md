@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-18T02:45:38.211Z'
-dateModified: '2016-04-18T02:45:32.893Z'
+description: Email us at andy@alliancemedia.co.nz or give us a call
+datePublished: '2016-04-18T02:58:41.431Z'
+dateModified: '2016-04-18T02:58:14.889Z'
 title: Contact Us
 author: []
 authors: []
@@ -23,12 +23,9 @@ _type: Article
 
 ---
 # Contact Us
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bacf485-bd8a-43d3-bced-c14fef2afc93.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/129340c7-1308-4949-a10e-2956f526f8c5.jpg)
 
-Email us at [andy@alliancemedia.co.nz][0] or give us a call at one of the numbers below:
+Email us at andy@alliancemedia.co.nz or give us a call at one of the numbers below:
 
-**Phone:** 09 435 1132
-
-**Mobile: **027 290 9853
-
-[0]: mailto:andy@alliancemedia.co.nz
+* Phone: 09 435 1132
+* Mobile: 027 290 9853
