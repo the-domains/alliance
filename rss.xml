@@ -4,7 +4,7 @@
         <description><![CDATA[Alliance Media]]></description>
         <link>http://alliancemedia.co.nz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 02:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 02:46:42 GMT</lastBuildDate>
         <atom:link href="http://alliancemedia.co.nz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://alliancemedia.co.nz/a2eed3a3-d61b-48a0-9813-dc2c0256ddf9/index.html</link>
             <guid isPermaLink="false">a2eed3a3-d61b-48a0-9813-dc2c0256ddf9</guid>
             <pubDate>Thu, 25 Feb 2016 19:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Email us at andy@alliancemedia.co.nz or give us a call at one of the numbers below:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bacf485-bd8a-43d3-bced-c14fef2afc93.jpg"></article>]]></description>
+            <link>http://alliancemedia.co.nz/contact-us/index.html</link>
+            <guid isPermaLink="false">b5349d3a-0f50-4d6e-8eb1-a8651d9741ca</guid>
+            <pubDate>Mon, 18 Apr 2016 02:45:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ About Us]]></title>
