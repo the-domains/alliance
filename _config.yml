@@ -1,6 +1,6 @@
 name: Alliance Media
 favicon: null
-layout_spectrum: 0.27813
+layout_spectrum: 0.34729
 typography_spectrum: 0.56285
 title: Alliance Media
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ff0000'
     - '#000000'
   brandStrength: 0
-  lightness: 0.875
+  lightness: 1
   saturation: 0.125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
